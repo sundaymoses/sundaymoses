@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sunday Moses</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/87645656/215316137-fb9f7d0f-d88e-44b8-a580-e7ab800c6a53.png)
-">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sundaymoses&label=Profile%20views&color=0e75b6&style=flat" alt="sundaymoses" /> </p>
 
